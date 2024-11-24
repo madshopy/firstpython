@@ -33,7 +33,7 @@ print("nilai b //= 3, nilai b menjadi",b)
 a = 5
 print("\nnilai a =",a)
 a **= 3
-print("nilai a **= 3, nilai a menjadi",a)
+print("nilai a **= 4, nilai a menjadi",a)
 
 # operasi bitwise
 # OR
