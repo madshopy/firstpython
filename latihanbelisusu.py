@@ -12,7 +12,7 @@ print('anak menjawab "ok" ')
 
 #percabangan
 susu = 150
-telur = 2000
+telur = 2005
 
 print("\nwelcome to toko sembako")
 print("_"*30)
