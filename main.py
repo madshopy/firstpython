@@ -10,7 +10,6 @@ ini adalah demo project pertama python ku
 # print("ada seorang anak yang bernama",a,"membawa uang sebanyak",b)
 
 import gempaterkini
-
 from gempaterkini.gempaUPDATE.__init__ import bencana, gempaTerkini
 
 
